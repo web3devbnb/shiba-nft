@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://dex.galaxyheroescoin.com/static/css/bundle.min.css",
-    "main.js": "https://dex.galaxyheroescoin.com/static/js/bundle.js",
-    "main.js.map": "https://dex.galaxyheroescoin.com/static/js/bundle.js.map",
-    "index.html": "https://dex.galaxyheroescoin.com/index.html",
-    "static/css/bundle.min.css.map": "https://dex.galaxyheroescoin.com/static/css/bundle.min.css.map",
-    "static/js/bundle.js.LICENSE.txt": "https://dex.galaxyheroescoin.com/static/js/bundle.js.LICENSE.txt",
-    "static/media/inter.css": "https://dex.galaxyheroescoin.com/static/media/Inter.var.c2fe3cb2.woff2",
-    "static/media/style.css": "https://dex.galaxyheroescoin.com/static/media/black-bubble.1fc1691b.ttf"
+    "main.css": "https://market-kingshibaofficial.com/static/css/bundle.min.css",
+    "main.js": "https://market-kingshibaofficial.com/static/js/bundle.js",
+    "main.js.map": "https://market-kingshibaofficial.com/static/js/bundle.js.map",
+    "index.html": "https://market-kingshibaofficial.com/index.html",
+    "static/css/bundle.min.css.map": "https://market-kingshibaofficial.com/static/css/bundle.min.css.map",
+    "static/js/bundle.js.LICENSE.txt": "https://market-kingshibaofficial.com/static/js/bundle.js.LICENSE.txt",
+    "static/media/inter.css": "https://market-kingshibaofficial.com/static/media/Inter.var.c2fe3cb2.woff2",
+    "static/media/style.css": "https://market-kingshibaofficial.com/static/media/black-bubble.1fc1691b.ttf"
   },
   "entrypoints": [
     "static/css/bundle.min.css",
